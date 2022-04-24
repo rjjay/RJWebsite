@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Raghavan (Jay) Jayakumar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Physicist, climate change activist, philanthropist, artist, father, grandfather"
+  bio    : "Physicist, author, climate change activist, philanthropist, artist, father, grandfather"
   links:
     - label: "San Diego, CA, USA"
       icon: "fas fa-fw fa-map"

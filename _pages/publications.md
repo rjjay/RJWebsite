@@ -3,6 +3,11 @@ permalink: /publications/
 title: "Publications"
 ---
 
+Published Books
+- Science for Living: 5 Science Topics of Common Interest to Religion and Society
+- Particle Accelerators, Colliders, and the Story of High Energy Physics: Charming the Cosmic Snake
+
+Publications
 - Directional rf probe for measurement of conductivity of flowing plasmas
 - Effect of nonideal conditions on the electrical performance of Faraday MHD generators
 - The influence of static fields on the dynamic Stark spectra of hydrogen Balmer lines
