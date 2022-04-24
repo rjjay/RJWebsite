@@ -14,6 +14,4 @@ gallery:
   - image_path: /assets/images/art_work/wineglass2.png
 ---
 
-Sampling of art work created
-
 {% include gallery %}
