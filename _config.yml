@@ -88,6 +88,3 @@ defaults:
       comments: true
       share: true
       related: true
-
-kramdown:
-  hard_wrap: true
