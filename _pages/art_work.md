@@ -14,4 +14,9 @@ gallery:
   - image_path: /assets/images/art_work/wineglass2.png
 ---
 
+## Filmography
+{% include video id="kwOg4w1nbsM" provider="youtube" %}
+{% include video id="JexJZB-AQ2M" provider="youtube" %}
+
+## Visual Art
 {% include gallery %}
