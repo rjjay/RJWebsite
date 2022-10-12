@@ -1,5 +1,5 @@
 ---
-permalink: /philanthropy-Activism/
+permalink: /philanthropy/
 title: "Philanthropy-Activism"
 ---
 
