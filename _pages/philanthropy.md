@@ -1,6 +1,6 @@
 ---
-permalink: /philanthropy/
-title: "Philanthropy"
+permalink: /philanthropy-Activism/
+title: "Philanthropy-Activism"
 ---
 
 - [Pragathi Alliance](https://www.pragathialliance.org/)
