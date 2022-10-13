@@ -10,7 +10,9 @@ Published Books
 Publications
     
     • Beam-Plasma Interaction, Plasma Diagnostics:
+    
     • Janssen, G. C. A. M., Jayakumar, R., & Granneman, E. H. A. (1981) The influence of static fields on the dynamic Stark spectra of hydrogen Balmer lines, Journal of Physics B Atomic Molecular Physics, 14, L51 10.1088/0022-3700/14/3/004
+    
     • Jayakumar, R., & Fleischmann, H. H. (1985) Changes in spectral intensities of thermal plasmas in the presence offast charged particles., J. Quant. Spectroscopy, Vol. 33, Issue 2, (Feb. 1985) 177 10.1016/0022-4073(85)90103-7.
     
     • Co-author: Examples
