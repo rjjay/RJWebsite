@@ -2,7 +2,6 @@
 permalink: /publications/
 title: "Publications"
 classes: wide
-<col style="width:70%">
 ---
 
 Published Books
