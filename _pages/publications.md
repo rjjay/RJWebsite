@@ -97,6 +97,7 @@ Plasma Physics, Controlled Fusion and Tokamaks
     • Petty, C. C.,  et.al.,LETTER: Observation of ELM suppression in hybrid discharges using n = 3 magnetic perturbations on DIII-D, Nuclear Fusion, 50, 022002 (2010) 10.1088/0029-5515/50/2/022002.
   
 MHD Power generation:
+
     • Jayakumar, R., Chakravarthy, D. P., & Rohatgi, V. K. (1977) Directional rf probe for measurement of conductivity of flowing plasmas, Review of Scientific Instruments, 48, 1706 10.1063/1.1134935
     • Jayakumar, R., Goyal, D. K., Ghosh, S., & Rohatgi, V. K. (1978) Effect of nonideal conditions on the electrical performance of Faraday MHD generators, International Journal of Energy Research, 2, 265.
     
