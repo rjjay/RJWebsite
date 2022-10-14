@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-classes: column
+classes: widest
 ---
 
 Published Books
