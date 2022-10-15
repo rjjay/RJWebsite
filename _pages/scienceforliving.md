@@ -3,7 +3,7 @@ permalink: /scienceforliving/
 title: "Science For Living"
 classes: wide
 ---
-
+![image caption](/assets/images/SFL.jpeg)
 
 
 Science for Living- 5 Science Topics of Common Interest to Religion and Society
