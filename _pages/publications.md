@@ -4,11 +4,11 @@ title: "Publications"
 classes: wide
 ---
 
-# Published Books
+# Books
 - Science for Living: 5 Science Topics of Common Interest to Religion and Society
 - Particle Accelerators, Colliders, and the Story of High Energy Physics: Charming the Cosmic Snake
 
-# Publications
+# Journal Publications
 
 ## Beam-Plasma Interaction, Plasma Diagnostics:
     
