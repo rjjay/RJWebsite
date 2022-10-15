@@ -2,9 +2,9 @@
 permalink: /
 classes: wide
 ---
-{% comment %}
+
 ![image caption](/assets/images/SFL.jpeg)
-{% endcomment %}
+
 
 Science for Living- 5 Science Topics of Common Interest to Religion and Society
 
