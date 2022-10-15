@@ -4,13 +4,13 @@ title: "Publications"
 classes: wide
 ---
 
-Published Books
+# Published Books
 - Science for Living: 5 Science Topics of Common Interest to Religion and Society
 - Particle Accelerators, Colliders, and the Story of High Energy Physics: Charming the Cosmic Snake
 
-Publications
+# Publications
 
-Beam-Plasma Interaction, Plasma Diagnostics:
+## Beam-Plasma Interaction, Plasma Diagnostics:
     
     • Janssen, G. C. A. M., Jayakumar, R., & Granneman, E. H. A. (1981) The influence of static fields on the dynamic Stark spectra of hydrogen Balmer lines, Journal of Physics B Atomic Molecular Physics, 14, L51 10.1088/0022-3700/14/3/004
     • Jayakumar, R., & Fleischmann, H. H. (1985) Changes in spectral intensities of thermal plasmas in the presence offast charged particles., J. Quant. Spectroscopy, Vol. 33, Issue 2, (Feb. 1985) 177 10.1016/0022-4073(85)90103-7.
@@ -18,7 +18,7 @@ Beam-Plasma Interaction, Plasma Diagnostics:
     Co-author: Example
     • Bora, D., Jayakumar, R., & Vijayashankar, M. K. (1984) A simple microwave technique for plasma density measurement using frequency modulation, Plasma Physics and Controlled Fusion, 26, 853 10.1088/0741-3335/26/7/002.
     
-Relativistic Electron Rings and Plasma Confinement:
+## Relativistic Electron Rings and Plasma Confinement:
     
     • Jayakumar, R., TaggartJ, D.P., Parker, M.R., Fleischmann, H.H Generation of stable mixed-compact-toroid rings by inducing plasma currents in strong E rings,IEEE Transactions on Plasma Science Vol. 17; p.41, Iss. 1(1989)
     • Jayakumar, R., & Fleischmann, H. H. (1989) Density and energy distribution of epithermal secondary electrons in a plasma with fast charged particles, Physics Letters A, 139, 313 10.1016/0375-9601(89)90459-3.
@@ -29,7 +29,7 @@ Relativistic Electron Rings and Plasma Confinement:
     • Parker, M. R., Taggart, D. P., Jayakumar, R., Hopman, H., & Fleischmann, H. H. (1984) Observation of Highly Elongated Field-Reversing Electron Rings, IEEE Transactions on Plasma Science, 12, 19 10.1109/TPS.1984.4316286.
     • Taggart, D. P., Parker, M. R., Hopman, H. J., Jayakumar, R., & Fleischmann, H. H. (1984) Successful Betatron Acceleration of Kiloampere Electron Rings in RECE-Christa, \prl, 52, 1601 10.1103/PhysRevLett.52.1601.
     
-Superconductivity, Superconducting Magnets and Cryogenics
+## Superconductivity, Superconducting Magnets and Cryogenics
     
     • Jayakumar, R. (1987) Critical energy of superconducting composites, Cryogenics, 27, 421 10.1016/0011-2275(87)90155-X.
     • Jayakumar, R. (1989) Values of critical energy for superconducting composites, Cryogenics, 29, 139 10.1016/0011-2275(89)90041-6.
@@ -48,13 +48,13 @@ Superconductivity, Superconducting Magnets and Cryogenics
     • Takayasu, M., et.al.,  ITER niobium-tin strands reacted under model coil heat-treatment conditions, IEEE Transactions on Applied Superconductivity, 9, 644 (1999) 10.1109/77.783378.
     • Tsuji, H.,et.al.,  Progress of the ITER central solenoid model coil programme, Nuclear Fusion, 41, 645 (2001) 10.1088/0029-5515/41/5/319.
     
-Particle Detector 
+## Particle Detector 
     
     Co-author: Example
     
     • Adcox, K., et.al.,  PHENIX magnet system, Nuclear Instruments and Methods in Physics Research A, 499, 480 (2003) 10.1016/S0168-9002(02)01951-4.
     
-Plasma Physics, Controlled Fusion and Tokamaks
+## Plasma Physics, Controlled Fusion and Tokamaks
     
     • Jayakumar, R., Fleischmann, H. H., & Zweben, S. J.,  Collisional avalanche exponentiation of runaway electrons in electrified plasmas, Physics Letters A, 172, 447  (1993)10.1016/0375-9601(93)90237-T.
     • Sharma,A.S., Jayakumar,R., Runaway Electrons during Tokamak Start-up, Nuclear Fusion, 28,3 (1988) 481.
@@ -97,12 +97,12 @@ Plasma Physics, Controlled Fusion and Tokamaks
     • Fowler, T. K., Jayakumar, R., & McLean, H. S.  Stable Spheromaks Sustained by Neutral Beam Injection, Journal of Funsion Energy, 28, 118 (2009) 10.1007/s10894-008-9157-y.
     • Petty, C. C.,  et.al.,LETTER: Observation of ELM suppression in hybrid discharges using n = 3 magnetic perturbations on DIII-D, Nuclear Fusion, 50, 022002 (2010) 10.1088/0029-5515/50/2/022002.
   
-MHD Power generation:
+## MHD Power generation:
 
     • Jayakumar, R., Chakravarthy, D. P., & Rohatgi, V. K. (1977) Directional rf probe for measurement of conductivity of flowing plasmas, Review of Scientific Instruments, 48, 1706 10.1063/1.1134935
     • Jayakumar, R., Goyal, D. K., Ghosh, S., & Rohatgi, V. K. (1978) Effect of nonideal conditions on the electrical performance of Faraday MHD generators, International Journal of Energy Research, 2, 265.
     
- Other:
+ ## Other:
     
     • Jayakumar, R. (1987) Uniting the Fusion Community, Physics Today, 40, 11 10.1063/1.2820063.
     
