@@ -7,7 +7,7 @@ classes: wide
 <img src="/assets/images/SFL.jpeg" width="30%" title="Nova Science:Novapublishers" align="right" />
 
 
-###Science for Living- 5 Science Topics of Common Interest to Religion and Society
+##Science for Living- 5 Science Topics of Common Interest to Religion and Society
 
 
 Raghavan Jayakumar
