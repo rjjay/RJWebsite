@@ -3,7 +3,8 @@ permalink: /scienceforliving/
 title: "Science For Living"
 classes: wide
 ---
-![image caption](/assets/images/SFL.jpeg)
+<!--![image caption](/assets/images/SFL.jpeg)-->
+<img src="SFL.jpeg" width="500" title="Nova Science:Novapublishers" />
 
 
 Science for Living- 5 Science Topics of Common Interest to Religion and Society
