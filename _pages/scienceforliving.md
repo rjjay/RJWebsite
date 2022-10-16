@@ -4,7 +4,7 @@ title: "Science For Living"
 classes: wide
 ---
 <!--![image caption](/assets/images/SFL.jpeg)-->
-<img src="/assets/images/SFL.jpeg" width="20%" title="Nova Science:Novapublishers" />
+<img src="/assets/images/SFL.jpeg" width="30%" title="Nova Science:Novapublishers" />
 
 
 Science for Living- 5 Science Topics of Common Interest to Religion and Society
