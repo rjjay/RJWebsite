@@ -7,7 +7,8 @@ classes: wide
 
 <img src="/assets/images/SFL.jpeg" width="30%" title="Nova Science:Novapublishers" align="right" />
 
-[![ ](/assets/images/Nova-Publishers.svg)] ("https://novapublishers.com/shop/science-for-living-5-science-topics-of-common-interest-to-religion-and-society/")
+[![ ](/assets/images/Nova-Publishers.svg)] https://novapublishers.com/shop/science-for-living-5-science-topics-of-common-interest-to-religion-and-society/
+
 
 <h3 style="color:blue"> <u> <em> Science for Living- 5 Science Topics of Common Interest to Religion and Society </em> </u> </h3>
 
