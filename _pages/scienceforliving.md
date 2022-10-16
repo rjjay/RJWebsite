@@ -8,7 +8,7 @@ classes: wide
 
 
 **Science for Living- 5 Science Topics of Common Interest to Religion and Society**
-<h1 style="color:blue"> <u>< em>S cience for Living- 5 Science Topics of Common Interest to Religion and Society </em>< /u> </h1>
+<h1 style="color:blue"> <u> <em>S cience for Living- 5 Science Topics of Common Interest to Religion and Society </em>< /u> </h1>
 
 
 Raghavan Jayakumar
