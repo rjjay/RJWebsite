@@ -10,7 +10,7 @@ classes: wide
 [![](/assets/images/Nova-Publishers.svg)](https://novapublishers.com/shop/science-for-living-5-science-topics-of-common-interest-to-religion-and-society/)
 <a href="https://www.amazon.com/Science-Living-Interest-Religion-Society/dp/1634838068"> <img src="/assets/images/Amazon_logo.svg.png" width="100" /> <a>
 <a href="https://books.google.com/books/about/Science_for_Living.html?id=LMUmjgEACAAJ"> <img src="/assets/images/googlebooks.png" width="100" /> <a>
-<a href="https://www.goodreads.com/book/show/35326572-science-for-living"> <img src="/assets/images/goodreads.png" width="100" /> <a>
+<a href="https://www.goodreads.com/book/show/35326572-science-for-living"> <img src="/assets/images/goodreads.png" width="150" /> <a>
 
 
 
