@@ -107,12 +107,12 @@ classes: wide
     • Jayakumar, R., Chakravarthy, D. P., & Rohatgi, V. K. (1977) Directional rf probe for measurement of conductivity of flowing plasmas, Review of Scientific Instruments, 48, 1706 10.1063/1.1134935
     • Jayakumar, R., Goyal, D. K., Ghosh, S., & Rohatgi, V. K. (1978) Effect of nonideal conditions on the electrical performance of Faraday MHD generators, International Journal of Energy Research, 2, 265.
     
- ## Other:
+## Other:
     
     • Jayakumar, R. (1987) "Uniting the Fusion Community", Physics Today, 40, 11 10.1063/1.2820063.
     * Jayakumar, Raghavan, "Popularity of Carnatic Music", articles I and II, https://www.karnatik.com/article001.shtml
     
- ## Music Cartoons
+## Music Cartoons
  
     *https://karnatik.com/kartoons.shtml
     
