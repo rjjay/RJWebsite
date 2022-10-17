@@ -7,6 +7,11 @@ classes: wide
 # Books
 - Science for Living: 5 Science Topics of Common Interest to Religion and Society
 - Particle Accelerators, Colliders, and the Story of High Energy Physics: Charming the Cosmic Snake
+- Social Responsibility of Scientists in the Technological Age: Papers from the AAAS Pacific Division Symposium Hawaii, USA, 2017, editors (Jayakumar,R. and Thomas,J.T.)
+
+# Contributions to Book Volumes:
+ - "Magnetic Flux" in Wiley Encyclopedia of Electrical and Electronics Engineering,Ed. John G. Webster, John Wiley & Sons Inc., 1999
+ - Above Reproduced in "Engineering Superconductivity", Ed. Peter J. Lee, Wiley-IEEE Press,2001, ISBN: 978-0-471-41116-1 
 
 # Journal Publications
 
