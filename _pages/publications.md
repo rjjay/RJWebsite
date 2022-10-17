@@ -109,7 +109,7 @@ classes: wide
     
  ## Other:
     
-    • Jayakumar, R. (1987) Uniting the Fusion Community, Physics Today, 40, 11 10.1063/1.2820063.
+    • Jayakumar, R. (1987) "Uniting the Fusion Community", Physics Today, 40, 11 10.1063/1.2820063.
     * Jayakumar, Raghavan, "Popularity of Carnatic Music", articles I and II, https://www.karnatik.com/article001.shtml
     
  ## Music Cartoons
