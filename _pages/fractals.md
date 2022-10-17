@@ -1,6 +1,6 @@
 ---
-permalink: /art_work/
-title: "Art Work"
+permalink: /fractals/
+title: "My Fractals"
 layout: "single"
 gallery:
   - image_path: /assets/images/Fractals/2deerweed_keep.png
