@@ -9,3 +9,5 @@ main:
     url: /art_work/
   - title: "Blog"
     url: /blog/
+  - title: "My Fractals"
+    url: /fractals/
