@@ -1,3 +1,8 @@
+---
+permalink: /quotes/
+title: "Quotes"
+classes: wide
+---
 One of the teachings in Buddhism is that the world  (Universe) is perfect as it is and it is our ego that puts 
 different spins on it. Although science does not say anything on this, it points to the fact we are here because 
 each moment before, in different spaces and times, brought us where and when we are, Now. So, that is perfection 
