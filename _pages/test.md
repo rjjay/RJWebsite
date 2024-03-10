@@ -14,12 +14,9 @@ A Song in the movie "Amar Akbar Anthony"
 ## Duniyamein main akela hoon 
 
   **Dil bhi hai khali, ghar bhi hai khali**    
-<body>
-
-<h1 style="background-color:powderblue;">This is a heading</h1>
-<p style="background-color:tomato;">This is a paragraph.</p>
-
-</body>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
 ![India remaining piece!](https://www.nationsonline.org/bilder/map_of_india50.jpg "San Juan Mountains")
 <h2> <p style="background-color:gray" > jise meri yaad aaye <br> jab chaahe chali aaye <br> roop mahal prem gali<br> kholi number chaar sow bees </p> </h2>
 <font color="orange">
