@@ -14,8 +14,12 @@ A Song in the movie "Amar Akbar Anthony"
 ## Duniyamein main akela hoon 
 
   **Dil bhi hai khali, ghar bhi hai khali**    
-<font color="#a1467e"><font size="5" style="font-size: 21pt"><span style="background: #ffff6d">Ismein Rahegi Koi Kismatwali</span></font></font>
+<body>
 
+<h1 style="background-color:powderblue;">This is a heading</h1>
+<p style="background-color:tomato;">This is a paragraph.</p>
+
+</body>
 ![India remaining piece!](https://www.nationsonline.org/bilder/map_of_india50.jpg "San Juan Mountains")
 <h2> <p style="background-color:gray" > jise meri yaad aaye <br> jab chaahe chali aaye <br> roop mahal prem gali<br> kholi number chaar sow bees </p> </h2>
 <font color="orange">
