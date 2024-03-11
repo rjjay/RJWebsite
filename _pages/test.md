@@ -6,6 +6,7 @@ The HTML block does not work for fonts
               <p style="color:blue;">I am blue</p>
               <p style="font-size:50px;">I am big</p>
             </head>
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 ==============================
 A Song in the movie "Amar Akbar Anthony"
 ========================================
