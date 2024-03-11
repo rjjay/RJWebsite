@@ -5,6 +5,7 @@ The HTML block does not work for fonts
               <p style="color:red;">I am red</p>
               <p style="color:blue;">I am blue</p>
               <p style="font-size:50px;">I am big</p>
+              <font color='red'>test blue color font</font>
             </head>
             
 <font color='red'>test blue color font</font>
