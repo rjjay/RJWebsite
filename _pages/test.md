@@ -7,11 +7,11 @@ The HTML block does not work for fonts
               <p style="font-size:50px;">I am big</p>
             </head>
 
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
+     <style>
+       r { color: Red }
+       o { color: Orange }
+       g { color: Green }
+     </style>
 ==============================
 A Song in the movie "Amar Akbar Anthony"
 ========================================
