@@ -4,12 +4,11 @@
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-```
-
-My Name is Anthony Gonzalvez
+@@ My Name is Anthony Gonzalvez@@
 ==============================
 A Song in the movie "Amar Akbar Anthony"
 ========================================
+...
 
 ![](/assets/images/SFL.jpeg "This is Amitabh Bacchan;")  
 [![](/assets/images/SFL.jpeg)](https://www.youtube.com/watch?v=ORlfGLKTkUs) 
