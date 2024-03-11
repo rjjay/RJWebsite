@@ -1,4 +1,8 @@
-This **Movie** is fun. This <em>My Name is Anthony Gonzalvez</em>
+This **Movie** is fun. <em>My Name is Anthony Gonzalvez</em>
+<html>
+        <head>
+           <title>This is the way to insert HTML</title>
+        </head>
 ==============================
 A Song in the movie "Amar Akbar Anthony"
 ========================================
