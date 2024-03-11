@@ -1,8 +1,8 @@
 This **Movie** is fun. <em>My Name is Anthony Gonzalvez</em>
 <html>
-        <head>
-           <title>This is the way to insert HTML</title>
-        </head>
+          <head>
+            <title>Test</title>
+          </head>
 ==============================
 A Song in the movie "Amar Akbar Anthony"
 ========================================
