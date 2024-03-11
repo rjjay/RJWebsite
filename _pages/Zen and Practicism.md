@@ -3,4 +3,5 @@ permalink: /fractals/
 title: "My Fractals"
 layout: "wide"
 ---
-image_path: /assets/images/Zen and Practicism.pdf
+![](/assets/images/SFL.jpeg "This is Amitabh Bacchan;")  
+[![](/assets/images/SFL.jpeg)](https://www.youtube.com/watch?v=ORlfGLKTkUs) 
