@@ -1,6 +1,6 @@
 ```diff
 - text in red
-@ My Name Is Anthony Gonzalvez@
+@ My Name Is Anthony Gonzalvez
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
