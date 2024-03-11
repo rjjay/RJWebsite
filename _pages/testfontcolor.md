@@ -1,10 +1,4 @@
-```diff
-- text in red
--- My Name Is Anthony Gonzalvez--
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-@@ My Name is Anthony Gonzalvez@@
+My Name is Anthony Gonzalvez@@
 ...
 ==============================
 A Song in the movie "Amar Akbar Anthony"
