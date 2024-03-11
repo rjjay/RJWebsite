@@ -3,4 +3,4 @@ permalink: /fractals/
 title: "My Fractals"
 layout: "wide"
 ---
-![](/assets/Zen_and_Practicism.jpeg "This is a pdf")  
+![](/assets/Images/Zen and Practicism.pdf "This is a pdf")  
