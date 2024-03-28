@@ -6,6 +6,8 @@ classes: wide
 
 # Practicism- Summary & Principles
 
+Practicism is so named because the knowledge that combines sensible ideas with scientifically proven ones is just that; But when that combines with practicing it in every day life brings harmony in life and relieves the distreesed stress of life.
+
 We get up in the morning. We expect to do something, accomplish something important or urgent, or just relax and not do something that hour or the day. Mostly, we see that we do what we want and can, but there are many occasions when we are diverted or defeated by circumstances. We often think that these are very personal events especially designed for us, human individuals. Though we may accept this, we still think it is some kind of design or personal karma or destiny. In actuality, this is what happens to all natural things in the Universe. All natural systems like stones, rivers, trees etc. lead these perilous lives.
 
 For some elements, objects and systems, things go pretty much as expected. These are the simplest of the systems, such as a stone ejected in empty space or an electron orbiting an atom or the distribution of balls thrown in random directions or a lone planet orbiting a lone star or an isolated mixture of two reactive chemicals. Such simple systems can be fully described by equations and their behavior foretold for all times or controlled by simple controllers.
