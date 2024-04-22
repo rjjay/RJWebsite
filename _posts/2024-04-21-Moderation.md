@@ -1,5 +1,5 @@
 Moderation:
-Yes, I do believe n moderation in behavior, want, deed and reaction. But, like anything else, the term moderation
+Yes, I do believe in moderation in behavior, want, deed and reaction. But, like anything else, the term moderation
 demands further definition or context. It often depends on who is judging. 
 Then there are things which are, indeed, 
 binary-black & white. A lion killing its prey, a man winning the race, a phase change in a critical phenomenon or a person having true faith. 
