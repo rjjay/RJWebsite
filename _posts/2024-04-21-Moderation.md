@@ -1,4 +1,14 @@
-Moderation:
+---
+title: "2024-04-21-Moderation"
+last_modified_at: 9T16:20:02-05:00
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+  
 Yes, I do believe in moderation in behavior, want, deed and reaction. But, like anything else, the term moderation
 demands further definition or context. It often depends on who is judging. 
 Then there are things which are, indeed, 
