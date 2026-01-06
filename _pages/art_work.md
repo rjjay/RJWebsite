@@ -17,5 +17,6 @@ gallery:
 
 ## Visual Art
 {% include gallery %}
+<img src="/assets/images/art_work/20200502_081610(1).jpg"  align="left" >
 <img src="/assets/images/art_work/Nataraa_final3.jpg"  align="left" >
 <img src="/assets/images/art_work/20201114_123052.jpg"  align="left" >
