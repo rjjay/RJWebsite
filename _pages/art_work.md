@@ -20,4 +20,4 @@ gallery:
 
 ## Visual Art
 {% include gallery %}
-{% include image_path=/assets/images/art_work/20201114_123052.jpg %}
+<img src="assets/images/art_work/20201114_123052.jpg" width="30%" align="right" />
