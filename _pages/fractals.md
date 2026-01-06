@@ -33,7 +33,7 @@ gallery:
   - image_path: /assets/images/Fractals/post_geeks6c1_pm1m1a.png
   - image_path: /assets/images/Fractals/post_geeks_6fn_40K_swapcolor.png
   - image_path: /assets/images/Fractals/tree_Asym.jpeg
-
+<img src = "/assets/images/Fractals/Fractal1-4.png">
 ---
 
 
