@@ -20,4 +20,4 @@ gallery:
 
 ## Visual Art
 {% include gallery %}
-<img src="/assets/images/art_work/20201114_123052.jpg" width="30%" align="right" />
+<img src="/assets/images/art_work/20201114_123052.jpg" width="30%" align="right" >
