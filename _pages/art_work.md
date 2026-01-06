@@ -5,7 +5,6 @@ layout: "single"
 gallery:
   - image_path: /assets/images/art_work/output.jpg
   - image_path: /assets/images/art_work/art_work_1.jpg
-  - image_path: /assets/images/art_work/20201114_123052.jpg
   - image_path: /assets/images/art_work/20201114_123117.jpg
   - image_path: /assets/images/art_work/20210123_103346.jpeg
   - image_path: /assets/images/art_work/appleIbuilt.png
