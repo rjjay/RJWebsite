@@ -106,6 +106,11 @@ classes: wide
 
     • Jayakumar, R., Chakravarthy, D. P., & Rohatgi, V. K. (1977) Directional rf probe for measurement of conductivity of flowing plasmas, Review of Scientific Instruments, 48, 1706 10.1063/1.1134935
     • Jayakumar, R., Goyal, D. K., Ghosh, S., & Rohatgi, V. K. (1978) Effect of nonideal conditions on the electrical performance of Faraday MHD generators, International Journal of Energy Research, 2, 265.
+
+# Philosophy and Science
+    • Jayakumar, R., Science,Naturalism,Pragmatism and Complex Systems -Part I-V, https://medium.com
+    • Jayakumar, R., The Free Energy Principle, Human Predilections and Philosophical Connections, https://philarchive.org/rec/RAGTFE
+    
     
 ## Other:
     
