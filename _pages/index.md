@@ -5,6 +5,7 @@ classes: wide
 
 Site Navigation:    
 [Publications](https://jayjayakumar.com/publications/)    
+[Book-Gods and God Particles](https://jayjayakumar.com/Gods-and-God-Particles/)
 [Book-Science For Living](https://jayjayakumar.com/scienceforliving/)    
 [MyArt](https://jayjayakumar.com/art_work/)    
 [Blogs](https://jayjayakumar.com/blog/)    
